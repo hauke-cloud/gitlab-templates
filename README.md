@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="resources/img/logo.png" alt="repository logo" width="50%" height="50%">
-</p>
 
 
 <a href="https://hauke.cloud" target="_blank"><img src="https://img.shields.io/badge/home-hauke.cloud-brightgreen" alt="hauke.cloud" style="display: block;" /></a>
